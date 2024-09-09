@@ -5,7 +5,7 @@ Plugin URI: https://cautilyawealth.com/
 Description: An investment calculator for SIP, Lumpsum, SWP, and Goal-based investments.
 Version: 1.0
 Author: Arun B Ayyar
-License: GPL2
+License: Apache 2.0
 */
 
 // If this file is called directly, abort.
