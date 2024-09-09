@@ -1,7 +1,7 @@
 # Cautilya Investment Calculator  
 
-*Contributors: oldmonkABA, v0 by vercel
-*Tags: calculator, investment, finance
+* Contributors: oldmonkABA, v0 by vercel
+* Tags: calculator, investment, finance
 
 ## Description  
 
